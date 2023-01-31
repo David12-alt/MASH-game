@@ -2,7 +2,7 @@
 body {
   background: #black;
   color: #pink;
-  font-family: alex brush, script;
+  font-family: alexbrush, Script;
   font-size: 30px;
   font-weight: 300;
   line-height: 1.65em;
@@ -29,10 +29,10 @@ h1 {
 
 /* Submit Button, Columns, Questions, and Inputs */
 .button-submit {
-  background: transparent;
-  border: 3px solid #fff;
+  background: #black;
+  border: 3px solid #blue;
   border-radius: 6px;
-  color: #fff;
+  color: #pink;
   cursor: pointer; 
   display: block;
   font-size: 30px;
@@ -90,7 +90,7 @@ h1 {
 /* Answer Div */
 #answers {
   margin: 60px 0;
-  background: #fff;
+  background: #black;
   border-radius: 6px;
   color: #pink;
   transition: 1s linear;
