@@ -1,6 +1,6 @@
 /* Body styling */
 body {
-  background: #black;
+  background: #blue;
   color: #pink;
   font-family: Helvetica, Arial;
   font-size: 30px;
@@ -15,7 +15,7 @@ body {
 /* Heading Styles */
 h1 {
   font-size: 70px;
-  color: #blue;
+  color: #pink;
   text-align: center;
 }
 
@@ -29,7 +29,7 @@ h1 {
 
 /* Submit Button, Columns, Questions, and Inputs */
 .button-submit {
-  background: #black;
+  background: #blue;
   border: 3px solid #blue;
   border-radius: 6px;
   color: #pink;
